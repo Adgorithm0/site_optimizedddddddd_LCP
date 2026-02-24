@@ -1,0 +1,8 @@
+{
+  "name": "adgorithm-site",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "@resend/node": "^2.4.0"
+  }
+}
